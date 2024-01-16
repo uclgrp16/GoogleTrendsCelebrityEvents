@@ -1,3 +1,8 @@
+"""Code written by uclqevo@ucl.ac.uk for Academic project at UCL 
+based on pytrends, https://ggiesa.wordpress.com/2018/05/15/scraping-google-trends-with-selenium-and-python/, 
+Bordeur et al (2021) and https://github.com/jack-madison/Google-Trends"""
+
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
